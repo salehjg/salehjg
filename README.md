@@ -1,6 +1,8 @@
 ### Hi there 👋
 Welcome :)
-Here, you will find most of my open-source projects. Although I also have an account on GitLab as well.
+
+Here, you will find most of my open-source projects. Although, I also have an account on GitLab.
+
 Working in these fields are exciting for me:
 - GPGPU 
 - FPGA-based acceleration

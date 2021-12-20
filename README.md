@@ -7,4 +7,5 @@ Working in these fields are exciting to me:
 - Deep learning
 - Computer Architecture
 - Dynamic Precision Scaling   
+
 Currenty, I am actively looking for new opportunities to persue a doctrate in computer science / computer engineering.  

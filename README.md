@@ -12,6 +12,8 @@ Working in these fields are exciting to me:
 
 Currenty, I am actively looking for new opportunities to persue a doctrate in computer science / computer engineering.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salehjg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **salehjg/salehjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

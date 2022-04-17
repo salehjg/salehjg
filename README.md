@@ -7,5 +7,3 @@ Working in these fields are exciting to me:
 - GPGPU 
 - Deep learning
 - Computer Architecture
-
-Currenty, I am actively looking for new opportunities to persue a doctrate in computer science / computer engineering.  
